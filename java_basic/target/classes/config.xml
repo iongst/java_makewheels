@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="" ?>
+<thread-pool-config>
+    <corePoolSize></corePoolSize>
+    <maxNumPoolSize></maxNumPoolSize>
+    <keepAliveTime></keepAliveTime>
+    <unit></unit>
+    <workQueue></workQueue>
+    <threadFactory></threadFactory>
+    <handler></handler>
+</thread-pool-config>
